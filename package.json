@@ -1,0 +1,10 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "Templates for Gulp 4 and Webpack 5 | Gulp, Webpack, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["template", "gulp 4", "webpack 5"],
+  "author": "Malashevskyi Vitalii",
+  "license": "MIT"
+}
