@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'PTSans';
+  src: url('../fonts/PTSans/PTSans-Bold.woff2') format('woff2');
+  src: url('../fonts/PTSans/PTSans-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'PTSans';
+  src: url('../fonts/PTSans/PTSans-Regular.woff2') format('woff2');
+  src: url('../fonts/PTSans/PTSans-Regular.woff') format('woff');
+  font-weight: normal;
+}
+
+body {
+  background: rgb(31, 185, 232);
+  font-family: 'PTSans';
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 100px;
+  line-height: 40px;
+  color: white;
+}
+
+img {
+  width: 140px;
+}
