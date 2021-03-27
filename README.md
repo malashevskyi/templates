@@ -2,8 +2,10 @@
 Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML
 
 ## Contents
-1. Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint
-2. Webpack 5, React, CSS, Babel, Eslint, Chakra-ui
+1. Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint <br>
+  `git checkout webpack-react`
+3. Webpack 5, React, CSS, Babel, Eslint, Chakra-ui <br>
+  `git checkout webpack-chakra`
 
 ## Credits
 - [Webpack 5 Full Project Setup](https://www.youtube.com/watch?v=TOb1c39m64A&t=1780s)
