@@ -1,26 +1,27 @@
 # Templates
-Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML
+Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML <br>
+<!--:warning: --> 
 
 ## Contents
-1. Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`
-    `git checkout webpack-react`
+1. **Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint** <br>
+  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
+    `git checkout webpack-react`<br>
   or
-  - `git clone --branch webpack-react https://github.com/malashevskyi/templates.git [your-app-folder]`
+  - `git clone --branch webpack-react https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch webpack-react https://github.com/malashevskyi/templates.git .`
-2. Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint, Chakra-ui <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`
-   `git checkout webpack-chakra`
+2. **Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint, Chakra-ui** <br>
+  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
+   `git checkout webpack-chakra`<br>
   or
-  - `git clone --branch webpack-chakra https://github.com/malashevskyi/templates.git [your-app-folder]`
+  - `git clone --branch webpack-chakra https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch webpack-chakra https://github.com/malashevskyi/templates.git .`
-3. Gulp, CSS (SCSS/SASS), Babel, Eslint <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`
-   `git checkout gulp`
+3. **Gulp, CSS (SCSS/SASS), Babel, Eslint** <br>
+  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
+   `git checkout gulp`<br>
   or
-  - `git clone --branch gulp https://github.com/malashevskyi/templates.git [your-app-folder]`
+  - `git clone --branch gulp https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch gulp https://github.com/malashevskyi/templates.git .`
 
@@ -32,9 +33,9 @@ Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML
 ### Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint
 `git checkout webpack-react`
 
-`npm start` - (development mode)
-`npm run build` - (production mode)
-`npm run stats` - (create statistic in stats.json&nbsp;&nbsp;[webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer))
+`npm start` - (development mode)<br>
+`npm run build` - (production mode)<br>
+`npm run stats` - (create statistic in stats.json&nbsp;&nbsp;[webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer))<br>
 
 - js/jsx/ts
 - sass/scss/css
@@ -56,9 +57,9 @@ Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML
 ### Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint, Chakra-ui
 `git checkout webpack-chakra`
 
-`npm start` - (development mode)
-`npm run build` - (production mode)
-`npm run stats` - (create statistic in stats.json&nbsp;&nbsp;[webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer))
+`npm start` - (development mode)<br>
+`npm run build` - (production mode)<br>
+`npm run stats` - (create statistic in stats.json&nbsp;&nbsp;[webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer))<br>
 
 - the same configuration as `Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint`
 `+`
@@ -66,10 +67,10 @@ Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML
 
 
 ### Gulp, CSS (SCSS/SASS), Babel, Eslint
-`git checkout gulp`
+`git checkout gulp`<br>
 
-`npm start` - (development mode)
-`npm run build` - (production mode)
+`npm start` - (development mode)<br>
+`npm run build` - (production mode)<br>
 
 - css initial (support sass/scss, just change styles files extensions)
 - woff/woff2
