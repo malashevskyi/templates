@@ -4,23 +4,14 @@ Webpack 5, Gulp, React, Chakra-ui, Babel, Eslint, CSS, SASS, SCSS, HTML <br>
 
 ## Contents
 1. **Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint** <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
-    `git checkout webpack-react`<br>
-  or
   - `git clone --branch webpack-react https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch webpack-react https://github.com/malashevskyi/templates.git .`
 2. **Webpack 5, React, SASS (SCSS/CSS), Babel, Eslint, Chakra-ui** <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
-   `git checkout webpack-chakra`<br>
-  or
   - `git clone --branch webpack-chakra https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch webpack-chakra https://github.com/malashevskyi/templates.git .`
 3. **Gulp, CSS (SCSS/SASS), Babel, Eslint** <br>
-  - `git clone https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
-   `git checkout gulp`<br>
-  or
   - `git clone --branch gulp https://github.com/malashevskyi/templates.git [your-app-folder]`<br>
   or if you inside folder
   - `git clone --branch gulp https://github.com/malashevskyi/templates.git .`
